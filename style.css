@@ -1,6 +1,12 @@
 div.background {
-  background: url(bg03.jpg);
-  border: 2px solid black;
+  /* background: url(bg03.jpg); */
+  /* background: black; */
+  /* border: 2px solid black; */
+    /* background-repeat: no-repeat; */
+   /* background-repeat: repeat-y; */
+   /* background-repeat: repeat-x; */
+    /* padding:35px; */
+    /* background-origin: content-box; */
 }
 
 div.transbox {
@@ -13,7 +19,7 @@ div.transbox {
 }
 
 div.transbox p {
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 10px 0px;
   color: #333;
 }
 
@@ -21,7 +27,7 @@ div.transbox p {
   margin-bottom: -100px;
 }
 
-.transbox > img {
+.logo {
   margin-top: -20px;
   margin-left: -5px;
   width: 60%;
