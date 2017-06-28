@@ -1,21 +1,15 @@
 div.background {
-  /* background: url(bg03.jpg); */
-  /* background: black; */
-  /* border: 2px solid black; */
-    /* background-repeat: no-repeat; */
-   /* background-repeat: repeat-y; */
-   /* background-repeat: repeat-x; */
-    /* padding:35px; */
-    /* background-origin: content-box; */
 }
 
 div.transbox {
+  font-size: 20px;
   max-width: 500px;
   margin: 30px auto 30px auto;
   padding: 40px;
-  background-color: #fff;
-  opacity: 0.9;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
+  background-color: #ffe3e8;
+  /* opacity: 0.9; */
+  /* filter: alpha(opacity=90); /1* For IE8 and earlier *1/ */
+   border-radius: 25px;
 }
 
 div.transbox p {
