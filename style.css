@@ -1,0 +1,33 @@
+div.background {
+  background: url(bg03.jpg);
+  border: 2px solid black;
+}
+
+div.transbox {
+  max-width: 500px;
+  margin: 30px auto 30px auto;
+  padding: 40px;
+  background-color: #fff;
+  opacity: 0.9;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 0px 0px 20px 0px;
+  color: #333;
+}
+
+.p {
+  margin-bottom: -100px;
+}
+
+.transbox > img {
+  margin-top: -20px;
+  margin-left: -5px;
+  width: 60%;
+  height: auto;
+}
+
+.transbox {
+  margin: 0px 0px 8px 0px;
+}

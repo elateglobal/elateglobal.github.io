@@ -1204,3 +1204,9 @@
     #header {
       margin-top: -196px;
     }
+
+    #text {
+      background-color:grey;
+         border-radius: 25px;
+        padding: 20px; 
+    }
