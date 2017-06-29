@@ -6,9 +6,9 @@ div.transbox {
   max-width: 500px;
   margin: 30px auto 30px auto;
   padding: 40px;
-  background-color: #ffe3e8;
-  /* opacity: 0.9; */
-  /* filter: alpha(opacity=90); /1* For IE8 and earlier *1/ */
+  background-color: #e0e8e1;
+  /* opacity: 0.5; */
+  /* filter: alpha(opacity=50); /1* For IE8 and earlier *1/ */
    border-radius: 25px;
 }
 
