@@ -1,4 +1,9 @@
-div.background {
+.background {
+  text-align: center;
+}
+
+.background p {
+  text-align: left;
 }
 
 div.transbox {
